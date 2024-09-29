@@ -1,0 +1,8 @@
+env: "local"
+storage-path: "C:/Users/akarasev-PC/Documents/GitHub/go-chess/storage/storage.db"
+
+http-server: 
+  address: "localhost:5000"
+  timeout: 10s
+  idle-timeout: 60s
+  
